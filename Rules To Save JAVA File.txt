@@ -1,0 +1,9 @@
+Rules To Save JAVA File 
+
+1)   In Single JAVA File There Must Be Only 1 Public Class Whose Name Would Be JAVA File Name
+2)   If We Don't Want Any Public Class In Our JAVA Program Then It Can Be Named As Anything 
+	1- It Can Be Named as _.java
+	2- It Can Be Named as .java(blank)
+3)   While Compiling We Must Use javac JAVAFileName.java
+4)   And While Running We Must Use java ClassName
+5)   We Can Only Run 1 Class At a Time
